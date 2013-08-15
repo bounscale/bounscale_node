@@ -1,6 +1,6 @@
 {
    "name" : "bounscale"
-,  "version" : "0.0.22"
+,  "version" : "0.0.1"
 ,  "description" : "Agent for Heroku auto-scaling. See => https://addons.heroku.com/bounscale/"
 ,  "tags" : ["auto scaling", "heroku", "addon", "agent"]
 ,  "author" : "DTS <info@bounscale.com>"
