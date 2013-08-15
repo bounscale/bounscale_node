@@ -1,0 +1,15 @@
+{
+   "name" : "bounscale"
+,  "version" : "0.0.1"
+,  "description" : "Agent for Heroku auto-scaling. See => https://addons.heroku.com/bounscale/"
+,  "tags" : ["auto scaling", "heroku", "addon", "agent"]
+,  "author" : "DTS <info@bounscale.com>"
+,  "repository" : 
+   {  "type" : "git"
+   ,  "url" : "http://github.com/bounscale/bounscale_node.git"
+   }
+, "bugs" : { "url" : "http://github.com/bounscale/bounscale_node/issues" }
+, "licenses" :
+  [ { "type" : "MIT"}]
+, "main" : "./lib/bounscale"
+}
